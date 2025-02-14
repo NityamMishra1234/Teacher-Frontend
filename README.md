@@ -46,7 +46,15 @@ Ensure you have the following installed on your machine:
 
 ### 🚀 Backend Setup  
 ```sh
-git clone https://github.com/your-repo/e-learning-system.git
-cd e-learning-system/backend
-npm install
-npm start
+
+### Access the frontend on http://localhost:5173.
+
+🔥 Upcoming Features
+🎤 Live Q&A Sessions for students.
+🏆 Gamification with badges & rewards.
+📜 Certificate generation upon course completion.
+🤝 Contributing
+Contributions are welcome! Feel free to submit a PR or report issues.
+
+
+Made with ❤️ by Nityam Kumar
